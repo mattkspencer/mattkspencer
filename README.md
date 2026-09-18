@@ -6,11 +6,9 @@ Roofing contractor in Denver who builds the software his trade was missing. I ru
 
 | Product | What it does |
 |---|---|
-| [The Roofing Book](https://theroofingbook.com) | A sourced reference for roofing: building codes, products, and local requirements by town, across many states. Every record carries its source. |
-| [MyRoofRisk](https://myroofrisk.com) | Storm history for a street address. A nightly, idempotent load of ten years of NOAA storm events into Postgres, matched to the property. |
+| [Fieldbuilt](https://fieldbuilt.dev) | My design and build agency: websites, local search, and AI tools for trades businesses. |
 | [The Denver Roofer](https://www.thedenverroofer.com) | My contracting site, with an AI assistant that has rate limits, output rails, and a refusal ladder in code, not just in the prompt. |
-| [RoofSum](https://roofsum.com) | An instant roof quote widget that contractors embed on their own sites. |
-| [Fieldbuilt](https://fieldbuilt.dev) | Websites, local search, and AI tools for trades businesses. |
+| [The Roofing Book](https://theroofingbook.com) | A sourced reference for roofing: building codes, products, and local requirements by town. Every record carries its source. Still being built out. |
 
 ### Also built
 
